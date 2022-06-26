@@ -4,7 +4,7 @@ This project implements a user authentication flow leveraging an Ethereum wallet
 
 The technologies used are [DID (decentralized identifiers)](https://www.w3.org/TR/did-core/), [Ceramic](https://ceramic.network/), [3id-connect](https://github.com/ceramicstudio/3id-connect), and [IDX](https://developers.idx.xyz/learn/welcome/).
 
-
+## Deployed Link: https://fluffy-crumble-6d058b.netlify.app/
 ### Running this project
 
 #### Local development
